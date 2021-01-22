@@ -1,0 +1,36 @@
+
+.im{
+  background-image:url("https://images.pexels.com/photos/442574/pexels-photo-442574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+background-size: cover;
+background-repeat:repeat;
+background-color: linear-gradient(to bottom right ,teal, #FFDAB9)
+}
+.pp{
+
+  margin:auto;
+}
+.nav{
+  background-color:teal;
+  color:#fff;
+  padding:30px 60px;
+  display:block;
+}
+.pp{
+    background-color: #870F0F;
+  }
+
+
+.kl{
+    margin:0;
+    padding:0;
+    list-style:none;
+    display:block;
+  }
+  .li{
+    float:left;
+    display:block;
+    padding:0;
+  }
+  .li a:hover{
+    color:teal;
+  }
